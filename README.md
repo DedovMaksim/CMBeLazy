@@ -1,5 +1,6 @@
 # CMBeLazy
 ![Welcome](https://raw.githubusercontent.com/DedovMaksim/CMBeLazy/master/resources/welcome.png)
+
 Простой GUI-интерфейс для конвертации DOCX-файлов в HTML. Работает на Python + tkinter.
 
 ## 🚀 Возможности
