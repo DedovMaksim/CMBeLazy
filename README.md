@@ -18,8 +18,7 @@ Simple GUI interface for converting DOCX files to HTML. Powered by Python + tkin
 - Save to HTML
 - Intuitive interface
 
-## 🛠️ Запуск
-## 🛠️ Launch
+## 🛠️ Запуск / Launch
 
 ```bash
 python gui.py
